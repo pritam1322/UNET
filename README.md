@@ -2,8 +2,9 @@
 
 Implementation of UNET 
 The dataset used here is Carvana Dataset is available on Kaggle.
+
  UNET Architecture-
- '1_f7YOaE4TWubwaFF7Z1fzNw.png'
+
 
 Refernce - 
 
